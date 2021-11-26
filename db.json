@@ -1,0 +1,25 @@
+{
+  "r": {
+    "guild": "841590705382359090",
+    "id": "841590705411063830",
+    "name": "╰────𒀖〢Mewbot Player",
+    "color": 15844367,
+    "hoist": false,
+    "rawPosition": 39,
+    "permissions": 104189505,
+    "managed": false,
+    "mentionable": false,
+    "deleted": false,
+    "createdTimestamp": 1620721260169
+  },
+  "m": {
+    "guildID": "841590705382359090",
+    "joinedTimestamp": 1627481339146,
+    "lastMessageChannelID": "841590706417958950",
+    "premiumSinceTimestamp": 0,
+    "deleted": false,
+    "nickname": null,
+    "userID": "849690256945184828",
+    "displayName": "AHQ Miness YT"
+  }
+}
